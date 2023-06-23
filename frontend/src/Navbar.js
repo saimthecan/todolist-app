@@ -53,7 +53,7 @@ const CustomNavbar = () => {
                       <FaUserAlt style={{width:"10px !important", color:"white", marginLeft:"1.5rem"}} />
                     </DropdownToggle>
                     <DropdownMenu>
-                      <DropdownItem tag={Link} to="/profile">Profile</DropdownItem>
+        
                       <DropdownItem onClick={handleLogout}>Logout</DropdownItem>
                     </DropdownMenu>
                   </Dropdown>

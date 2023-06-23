@@ -15,6 +15,6 @@ It is a react application where users who register and log in can access their o
 
 ![page view4](./login-home.PNG)
 
-* And you will be able to edit your artol todos page.
+* And now you will be able to edit your todos page, you will be able to successfully log out of your profile.
 
 ![page view5](./todo.PNG)
