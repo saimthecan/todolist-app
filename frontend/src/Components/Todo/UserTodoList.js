@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useContext, useMemo } from "react";
-import { AuthContext } from "./AuthContext";
+import { AuthContext } from "../Redux/AuthContext";
 import TodoInput from "./TodoInputs";
 import TodoItem from "./TodoItem";
 import { styles } from "./TodoListStyles";

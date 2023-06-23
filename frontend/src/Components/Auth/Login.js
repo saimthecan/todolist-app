@@ -1,7 +1,7 @@
   import React, { useState, useContext } from "react";
   import axios from "axios";
   import alertify from "alertifyjs";
-  import { AuthContext } from './AuthContext'; // instead of './AuthProvider'
+  import { AuthContext } from '../Redux/AuthContext'; // instead of './AuthProvider'
   import { Button, Form, FormGroup, Label, Input} from "reactstrap";
   import { authStyles } from "./styles";
   import { backgroundImage } from "./styles";

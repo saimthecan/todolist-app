@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import { Button } from "reactstrap";
-import { AuthContext } from './AuthContext';
+import { AuthContext } from '../Redux/AuthContext';
 
 const Welcome = () => {
   const navigate = useNavigate();

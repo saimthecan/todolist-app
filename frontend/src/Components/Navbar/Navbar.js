@@ -4,7 +4,7 @@ import logo from './logo.png';
 import { Link, NavLink, useNavigate,useLocation } from 'react-router-dom';
 import "./navbar.css"
 import { FaUserAlt } from "react-icons/fa";
-import { AuthContext } from './AuthContext';
+import { AuthContext } from '../Redux/AuthContext';
 
 
 const CustomNavbar = () => {

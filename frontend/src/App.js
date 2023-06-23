@@ -1,11 +1,11 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
-import Navbar from "./Navbar";
-import Login from "./Login";
-import SignUp from "./Sign-up";
-import UserTodoList from "./UserTodoList";
-import AuthProvider from "./AuthProvider";
-import Welcome from "./Welcome";
+import Navbar from "./Components/Navbar/Navbar";
+import Login from "./Components/Auth/Login";
+import SignUp from "./Components/Auth/Sign-up";
+import UserTodoList from "./Components/Todo/UserTodoList";
+import AuthProvider from "./Components/Redux/AuthProvider";
+import Welcome from "./Components/Home/Welcome";
 
 function App() {
   return (
