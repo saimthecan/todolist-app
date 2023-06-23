@@ -15,6 +15,6 @@ It is a react application where users who register and log in can access their o
 
 ![page view4](./login-home.PNG)
 
-* And you will be able to edit your artol todos page
+* And you will be able to edit your artol todos page.
 
 ![page view5](./todo.PNG)
